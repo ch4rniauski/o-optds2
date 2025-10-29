@@ -2,7 +2,7 @@
 {
     public static class UserStorage
     {
-        public static readonly List<User> Users = [new("adasd", "s@mail.ru", "12312312312")];
+        public static readonly List<User> Users = [];
 
         public static void AddUser(User user)
             => Users.Add(user);

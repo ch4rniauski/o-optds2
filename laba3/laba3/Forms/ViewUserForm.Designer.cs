@@ -137,7 +137,7 @@
             // ChangeUserRoleComboBox
             // 
             ChangeUserRoleComboBox.FormattingEnabled = true;
-            ChangeUserRoleComboBox.Location = new Point(274, 139);
+            ChangeUserRoleComboBox.Location = new Point(274, 167);
             ChangeUserRoleComboBox.Name = "ChangeUserRoleComboBox";
             ChangeUserRoleComboBox.Size = new Size(121, 23);
             ChangeUserRoleComboBox.TabIndex = 13;
@@ -147,7 +147,7 @@
             // 
             CurrentUserRoleLabel.AutoSize = true;
             CurrentUserRoleLabel.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 204);
-            CurrentUserRoleLabel.Location = new Point(401, 137);
+            CurrentUserRoleLabel.Location = new Point(274, 139);
             CurrentUserRoleLabel.Name = "CurrentUserRoleLabel";
             CurrentUserRoleLabel.Size = new Size(137, 25);
             CurrentUserRoleLabel.TabIndex = 14;

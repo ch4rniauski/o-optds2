@@ -151,6 +151,5 @@ namespace laba3.Forms
 
         [GeneratedRegex(@"^\+?[1-9][0-9]{7,14}$")]
         private static partial Regex PhoneRegex();
-
     }
 }
