@@ -1,4 +1,4 @@
-﻿namespace laba5.Classes.Subtitles
+﻿namespace laba5.Classes.CertainSubtitles
 {
     public class GermanSubtitles : Subtitles
     {

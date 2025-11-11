@@ -1,14 +1,14 @@
 ﻿using laba5.Classes.AudioTracks;
-using laba5.Classes.Subtitles;
+using laba5.Classes.CertainSubtitles;
 
-namespace laba5.Classes.MovieFactory
+namespace laba5.Classes.CertainMovieFactory
 {
     public class GermanMovieFactory : MovieFactory
     {
         public override AudioTrack CreateAudioTrack()
             => new GermanAudioTrack();
 
-        public override Subtitles.Subtitles CreateSubtitles()
+        public override Subtitles CreateSubtitles()
             => new GermanSubtitles();
     }
 }
