@@ -130,7 +130,7 @@
             MaximumSize = new Size(476, 359);
             MinimumSize = new Size(476, 359);
             Name = "Form1";
-            Text = "Задание 3. Вариант 2. Адаптер класса";
+            Text = "Адаптер класса";
             ResumeLayout(false);
             PerformLayout();
         }

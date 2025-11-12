@@ -187,7 +187,7 @@
             MaximumSize = new Size(496, 459);
             MinimumSize = new Size(496, 459);
             Name = "Form1";
-            Text = "Задание 4. Вариант 2. Фасад";
+            Text = "Фасад";
             ResumeLayout(false);
             PerformLayout();
         }
