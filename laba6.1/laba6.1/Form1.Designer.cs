@@ -82,7 +82,7 @@
             // 
             lblPassport.Location = new Point(30, 240);
             lblPassport.Name = "lblPassport";
-            lblPassport.Size = new Size(400, 40);
+            lblPassport.Size = new Size(400, 71);
             lblPassport.TabIndex = 5;
             lblPassport.Text = "Данные объекта:";
             // 

@@ -24,12 +24,12 @@ namespace laba6._1
                 return;
             }
 
-            var adapter = new Adapter();
+            ICylinderInfo target = new GasCylinderAdapter();
 
-            adapter.ModifVolume(dV);
+            target.ModifVolume(dV);
 
-            var pressureChange = adapter.GetDp(T0, T1);
-            var passport = adapter.Passport();
+            var pressureChange = target.GetDp(T0, T1);
+            var passport = target.Passport();
 
             lblPressureChange.Text = $"Изменение давления при изменении температуры с {T0} до {T1}: {pressureChange:F2} Па";
             lblPassport.Text = $"Данные объекта: {passport}";
