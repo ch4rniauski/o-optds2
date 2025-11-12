@@ -87,7 +87,7 @@
             MaximumSize = new Size(516, 539);
             MinimumSize = new Size(516, 539);
             Name = "Form1";
-            Text = "Тетрис - Factory Method";
+            Text = "Тетрис";
             ResumeLayout(false);
             PerformLayout();
         }

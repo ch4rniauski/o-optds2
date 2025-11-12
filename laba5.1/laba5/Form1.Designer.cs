@@ -99,7 +99,7 @@
             MaximumSize = new Size(516, 439);
             MinimumSize = new Size(516, 439);
             Name = "Form1";
-            Text = "Кинопрокат - Abstract Factory";
+            Text = "Кинопрокат";
             ResumeLayout(false);
             PerformLayout();
         }
